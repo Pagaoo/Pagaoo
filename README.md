@@ -25,6 +25,11 @@ Estou buscando me especializar em desenvolvimento android com Kotlin e Java, al�
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pagaoo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pagaoo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pagaoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pagaoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+
 <!--
 **Pagaoo/Pagaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
