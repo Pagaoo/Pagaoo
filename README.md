@@ -1,8 +1,8 @@
-# Gabriel Paganini
+# About me
 
 Boa dia/ Boa tarde / Boa noite.
 Sou Gabriel, nascido no Espirito Santo e acadêmico de ciência da computação na faculdade Estácio.
-Estou buscando me especializar em desenvolvimento android com Kotlin e Java, além de ter um gosto por backend.
+Estou buscando me especializar em desenvolvimento backend, além de ter um gosto por desenvolvimento android.
 
 # Stacks
 
