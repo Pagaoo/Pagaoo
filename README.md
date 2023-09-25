@@ -22,7 +22,6 @@ Estou buscando me especializar em desenvolvimento android com Kotlin e Java, al√
 
 # GitHub Status
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pagaoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pagaoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Pagaoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pagaoo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pagaoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
