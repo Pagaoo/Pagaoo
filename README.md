@@ -22,4 +22,6 @@ Estou buscando me especializar em desenvolvimento android com Kotlin e Java, al√
 
 # GitHub Status
 
-[![](https://visitcount.itsvg.in/api?id=Pagaoo&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Pagaoo&label=Profile%20Views&pretty=false" />
+</a>
