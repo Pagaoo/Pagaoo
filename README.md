@@ -8,7 +8,8 @@ Estou buscando me especializar em desenvolvimento backend, além de ter um gosto
 
 <a src="https://www.java.com/pt-BR/"><img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/48/Java-icon.png"/></a>
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL SERVER](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
