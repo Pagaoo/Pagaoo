@@ -26,6 +26,6 @@ Estou buscando me especializar em desenvolvimento backend, além de ter um gosto
 # GitHub Status
 
 ![](https://github-readme-stats.vercel.app/api?username=Pagaoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={Pagaoo}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pagaoo&theme=blue-green)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pagaoo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pagaoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
