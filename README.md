@@ -7,6 +7,7 @@ Estou buscando me especializar em desenvolvimento backend, além de ter um gosto
 # Stacks
 
 <a src="https://www.java.com/pt-BR/"><img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/48/Java-icon.png"/></a>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
