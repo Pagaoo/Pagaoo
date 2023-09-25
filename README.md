@@ -22,6 +22,7 @@ Estou buscando me especializar em desenvolvimento android com Kotlin e Java, al√
 
 # GitHub Status
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Pagaoo&label=Profile%20Views&pretty=false" />
-</a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pagaoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pagaoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
