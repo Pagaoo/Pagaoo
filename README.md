@@ -28,4 +28,4 @@ Estou buscando me especializar em desenvolvimento backend, além de ter um gosto
 ![](https://github-readme-stats.vercel.app/api?username=Pagaoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pagaoo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pagaoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Pagaoo" frameborder="0"></iframe>
+
