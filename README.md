@@ -2,7 +2,7 @@
 
 Boa dia/ Boa tarde / Boa noite.<br>
 Sou Gabriel, nascido no Espirito Santo e bacharel em ciência da computação, atualmente fazendo mba em engenharia de software na USP.<br>
-Estou buscando me especializar em desenvolvimento backend com java e também aprendendo GO.
+Estou buscando me especializar em desenvolvimento backend com java.
 
 # Stacks
 
