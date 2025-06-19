@@ -2,11 +2,11 @@
 
 Boa dia/ Boa tarde / Boa noite.<br>
 Sou Gabriel, nascido no Espirito Santo e bacharel em ciência da computação, atualmente fazendo mba em engenharia de software na USP.<br>
-Estou buscando me especializar em desenvolvimento backend com java.
 
 # Stacks
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
